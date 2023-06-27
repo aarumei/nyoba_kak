@@ -1,0 +1,10 @@
+merkurius
+venus
+bumi
+mars
+jupiter
+saturnus
+neptunus
+uranus
+pluto
+
